@@ -29,7 +29,3 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 - Email: pkargathara7401@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities!
-
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=unbekannt01&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unbekannt01&layout=compact&theme=radical)
