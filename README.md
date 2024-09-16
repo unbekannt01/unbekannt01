@@ -16,13 +16,7 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 ## 🏆 Projects
 - [Car Dealership Management System](https://github.com/unbekannt01/car-dealership-management) - A comprehensive system using NestJS, TypeScript, and MySQL
 - [Carpentry Tool Shop](https://github.com/unbekannt01/carpentry-tool-shop) - An e-commerce site built with React JS
-- [Art Media & E-Commerce Website](https://github.com/unbekannt01/art-media-ecommerce) - A platform for online auctions and live galleries
-
-## 📜 Certifications
-- NestJs - Rover Training Hub (2024)
-- React Js - LogicRays Academy (2023)
-- Next Gen Technologies - Infosys Spring Board (2022)
-- 30 Days Google Cloud Program - Google (2021)
+- Art Media & E-Commerce Website - A platform for online auctions and live galleries
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prashant-kargathara/)
