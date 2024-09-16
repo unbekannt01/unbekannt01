@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I am Prashant Kargathara! 👋
 
-<!--
-**unbekannt01/unbekannt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer specializing in creating dynamic and efficient web solutions. As a recent graduate with a B.Tech. in Information Technology, I'm eager to contribute my technical skills and creativity to innovative projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech. in Information Technology from Parul University (2023)
+- 💻 Front-end developer with growing back-end skills
+- 🌱 Always learning and expanding my skillset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Front-end: HTML, CSS, JavaScript, React JS, Bootstrap
+- Back-end: Node.js, NestJS (basic knowledge)
+- Database: MySQL
+- Other: REST API, TypeScript
+
+## 🏆 Projects
+- [Car Dealership Management System](https://github.com/unbekannt01/car-dealership-management) - A comprehensive system using NestJS, TypeScript, and MySQL
+- [Carpentry Tool Shop](https://github.com/unbekannt01/carpentry-tool-shop) - An e-commerce site built with React JS
+- [Art Media & E-Commerce Website](https://github.com/unbekannt01/art-media-ecommerce) - A platform for online auctions and live galleries
+
+## 📜 Certifications
+- NestJs - Rover Training Hub (2024)
+- React Js - LogicRays Academy (2023)
+- Next Gen Technologies - Infosys Spring Board (2022)
+- 30 Days Google Cloud Program - Google (2021)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/prashant-kargathara/)
+- Email: pkargathara7401@gmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities!
+
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=unbekannt01&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unbekannt01&layout=compact&theme=radical)
