@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in cre
 
 ## 🛠️ Skills
 - Front-end: HTML, CSS, JavaScript, React JS, Bootstrap
-- Back-end: Node.js, NestJS (basic knowledge)
+- Back-end: Node.js (Basic Knowledge), NestJS (Basic knowledge)
 - Database: MySQL
 - Other: REST API, TypeScript
 
