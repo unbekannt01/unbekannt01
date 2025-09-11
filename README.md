@@ -1,26 +1,37 @@
-# Hello, I am Prashant Kargathara! 👋
+👋 Hi, I’m Prashant Kargathara
 
-Welcome to my GitHub profile! I'm a passionate full-stack web developer specializing in creating dynamic and efficient web solutions. As a recent graduate with a B.Tech. in Information Technology, I'm eager to contribute my technical skills and creativity to innovative projects.
+💻 Full-stack Developer | Backend Enthusiast | AI Explorer
 
-## 🚀 About Me
-- 🎓 B.Tech. in Information Technology from Parul University (2023)
-- 💻 Frontend & Backend developer with hands-on experience in building robust APIs and scalable applications
-- 🌱 Always learning and expanding my skillset with new technologies and best practices
+I’m passionate about building scalable backend systems and modern web apps that make life easier.
+With hands-on experience in Node.js, NestJS, PostgreSQL, MongoDB, and modern frontend tools, I enjoy turning ideas into production-ready solutions.
 
-## 🛠️ Skills
-- Frontend: HTML, CSS, JavaScript, React JS, Bootstrap
-- Backend: Node.js, NestJS (completed projects & practical experience), REST API development, GraphQL basics
-- Databases: MySQL, PostgreSQL, MongoDB (Basic to Intermediate knowledge)
-- Other: TypeScript, API design & development, version control (Git)
+🚀 About Me
 
-## 🏆 Projects
-- [Car Dealership Management System](https://github.com/unbekannt01/car-dealership-management) - A comprehensive system using NestJS, TypeScript, and MySQL
-- [Carpentry Tool Shop](https://github.com/unbekannt01/carpentry-tool-shop) - An e-commerce site built with React JS
-- Art Media & E-Commerce Website - A platform for online auctions and live galleries
-- Currently Working On: A modern NestJS project integrating PostgreSQL and MongoDB, focusing on building robust, scalable backend APIs with GraphQL support.
+🎓 B.Tech. IT (2023) – Parul University
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/prashant-kargathara/)
-- Email: pkargathara7401@gmail.com
+🛠️ Building APIs, real-time apps, and modular backend systems
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities!
+🌱 Currently exploring GraphQL + AI integrations
+
+⚡ Believe in: Code that scales. Systems that last.
+
+🛠️ Tech Stack
+
+Frontend: React.js, HTML, CSS, Bootstrap
+Backend: Node.js, NestJS, Express.js, REST, GraphQL
+Programming Language: JavaScript, TypeScript
+Databases: PostgreSQL, MongoDB, MySQL
+Other: Git, Docker (basics), Authentication systems, WebSockets, Postman, Swagger
+
+🏆 Featured Projects
+
+🔹 Task Management System – NodeJS ( ExpressJS ) + PostgreSQL + ReactJS
+🔹 Car Dealership Management System – NestJS + MySQL + TypeScript
+🔹 Carpentry Tool Shop – React.js E-commerce platform
+🔹 Art Media & E-Commerce Website – Online auction & live galleries
+
+📫 Connect with Me
+
+📧 pkargathara7401@gmail.com
+
+✨ “Keep building. Keep scaling. Keep learning.”
